@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# tmp
+/Users/jakemullins/Projects/dagster/quickstart-gcp/tmpknjz4b03/
